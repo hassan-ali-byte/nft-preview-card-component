@@ -25,7 +25,7 @@ Users should be able to:
 
 ## 🌐 Live Demo
 
-## 👉 [View Live Demo](https://hassan-ali-byte.github.io/nft-preview-card-component-main/)
+## 👉 [View Live Demo](https://nft-preview-card-component-fm-five.vercel.app/)
 
 ## ⚙️ My Process
 
